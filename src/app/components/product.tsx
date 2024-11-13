@@ -5,7 +5,7 @@ import Image2 from "../public/Images (2).png";
 import Image3 from "../public/Images (3).png";
 import Image4 from "../public/Images (4).png";
 import Image5 from "../public/Images (5).png";
-import Image6 from "../public/Images (6).png";
+// import Image6 from "../public/Images (6).png";
 
 function Product() {
   return (
